@@ -3,7 +3,8 @@
 
 | **Nº** | **Questão**                                                                                             |
 |--------|----------------------------------------------------------------------------------------------------------|
-| 01     | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.              |
+| 01     | A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um traba-
+lho de laboratório, a uma avaliação semestral e a um exame final. <br>A média das três notas mencionadas obedece aos pesos a seguir:|
 | 02     | Faça um programa que receba três notas, calcule e mostre a média aritmética.                              |
 | 03     | Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.      |
 | 04     | Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%. |
