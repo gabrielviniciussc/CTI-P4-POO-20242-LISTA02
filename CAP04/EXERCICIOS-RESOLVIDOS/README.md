@@ -1,6 +1,5 @@
-# Exercícios Resolvidos em Java
-
-## Lista de Exercícios
+### Segue a lista de exercícios resolvidos em Java, com os números das questões e seus respectivos enunciados.
+-----
 
 | **Nº** | **Questão**                                                                                             |
 |--------|----------------------------------------------------------------------------------------------------------|
