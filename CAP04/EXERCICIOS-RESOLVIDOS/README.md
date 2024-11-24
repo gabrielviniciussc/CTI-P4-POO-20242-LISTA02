@@ -39,6 +39,6 @@ Se o funcionário preencher algum dos requisitos a seguir, seu auxílio alimenta
 Categoria: Operário
 Coeficiente do salário: <= 25
 • O salário líquido, ou seja, salário bruto menos imposto mais gratificação mais auxílio alimentação.
-• A classificação, de acordo com a tabela a seguir:
+• A classificação, de acordo com a tabela a seguir:|
 | 24     | Faça um programa que receba o preço, o tipo (A — alimentação; L — limpeza; e V — vestuário) e a refrigeração (S — produto que necessita de refrigeração; e N — produto que não necessita de refrigeração) de um produto. Suponha que haverá apenas a digitação de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre: |
 | 25     | Faça um programa que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que se localiza esse ângulo. Considere os quadrantes da trigonometria e, para ângulos maiores que 360º ou menores que −360º, reduzi-los, mostrando também o número de voltas e o sentido da volta (horário ou anti-horário). |
