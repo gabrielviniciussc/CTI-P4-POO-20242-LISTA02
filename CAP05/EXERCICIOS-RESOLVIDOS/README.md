@@ -1,5 +1,6 @@
 ### Segue a lista de exercícios resolvidos em Java, com os números das questões e seus respectivos enunciados.
 -----
+
 | **Nº** | **Questão**                                                                                                                                                                                                                       |
 |--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 01     | Um funcionário de uma empresa recebe, anualmente, aumento salarial. Sabe-se que: Faça um programa que determine o salário atual desse funcionário.                                                                                |
