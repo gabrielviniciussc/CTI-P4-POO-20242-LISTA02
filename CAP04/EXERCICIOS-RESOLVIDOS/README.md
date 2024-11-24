@@ -3,8 +3,8 @@
 
 | **Nº** | **Questão**                                                                                             |
 |--------|----------------------------------------------------------------------------------------------------------|
-| 01     | A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a seguir.Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito que segue a tabela:|
-| 02     | Faça um programa que receba três notas, calcule e mostre a média aritmética.                              |
+| 01     | A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a seguir. Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito que segue a tabela:|
+| 02     | Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem constante na tabela a seguir. Aos alunos que ficaram para exame, calcule e mostre a nota que deverão tirar para serem aprovados, considerando que a média exigida é 6,0.  |
 | 03     | Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.      |
 | 04     | Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%. |
 | 05     | Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário. |
