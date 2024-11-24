@@ -10,7 +10,8 @@
 | 05     | Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga essa regra. Mostre, em seguida, os quatro números em ordem decrescente. Suponha que o usuário digitará quatro números diferentes. |
 | 06     | Faça um programa que receba um número inteiro e verifique se é par ou ímpar. |
 | 07     | Faça um programa que receba quatro valores: I, A, B e C. Desses valores, I é inteiro e positivo, A, B e C são reais. Escreva os números A, B e C obedecendo à tabela a seguir. Suponha que o valor digitado para I seja sempre um valor válido, ou seja, 1, 2 ou 3, e que os números digitados sejam diferentes um do outro. |
-| 08     | Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento. |
+| 08     | Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados neces-
+sários para executar cada operação. <br> Menu de opções: <br> 1. Somar dois números. <br>2. Raiz quadrada de um número. <br> Digite a opção desejada: |
 | 09     | Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura) / 2. |
 | 10     | Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = π * R². |
 | 11     | Faça um programa que receba a hora do início de um jogo e a hora do término (cada hora é composta por duas variáveis inteiras: hora e minuto). Calcule e mostre a duração do jogo (horas e minutos), sabendo que o tempo máximo de duração do jogo é de 24 horas e que ele pode começar em um dia e terminar no dia seguinte. |
