@@ -6,7 +6,7 @@
 | 01     | A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a seguir. Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito que segue a tabela:|
 | 02     | Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem constante na tabela a seguir. Aos alunos que ficaram para exame, calcule e mostre a nota que deverão tirar para serem aprovados, considerando que a média exigida é 6,0.  |
 | 03     | Faça um programa que receba dois números e mostre o maior.  |
-| 04     | Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%. |
+| 04     | Faça um programa que receba três números e mostre-os em ordem crescente. Suponha que o usuário digitará três números diferentes. |
 | 05     | Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário. |
 | 06     | Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7%. |
 | 07     | Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base. |
