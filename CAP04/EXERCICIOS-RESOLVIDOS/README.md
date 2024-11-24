@@ -8,7 +8,7 @@
 | 03     | Faça um programa que receba dois números e mostre o maior.  |
 | 04     | Faça um programa que receba três números e mostre-os em ordem crescente. Suponha que o usuário digitará três números diferentes. |
 | 05     | Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga essa regra. Mostre, em seguida, os quatro números em ordem decrescente. Suponha que o usuário digitará quatro números diferentes. |
-| 06     | Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7%. |
+| 06     | Faça um programa que receba um número inteiro e verifique se é par ou ímpar. |
 | 07     | Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base. |
 | 08     | Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento. |
 | 09     | Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura) / 2. |
