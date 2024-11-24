@@ -26,20 +26,21 @@
 | 20     | Faça um programa que receba:<br>• O código de um produto comprado, supondo que a digitação do código do produto seja sempre válida, isto é, um número inteiro entre 1 e 10.<br>• O peso do produto em quilos.<br>• O código do país de origem, supondo que a digitação do código seja sempre válida, isto é, um número inteiro entre 1 e 3.<br>Calcule e mostre:<br>• o peso do produto convertido em gramas;<br>• o preço total do produto comprado;<br>• o valor do imposto, sabendo que ele é cobrado sobre o preço total do produto comprado e depende do país de origem;<br>• o valor total, preço total do produto mais imposto. |
 | 21     | Faça um programa que receba:<br>• o código do estado de origem da carga de um caminhão, supondo que a digitação do código do estado seja sempre válida, isto é, um número inteiro entre 1 e 5;<br>• o peso da carga do caminhão em toneladas;<br>• o código da carga, supondo que a digitação do código seja sempre válida, isto é, um número inteiro entre 10 e 40.<br>Calcule e mostre:<br>• o peso da carga do caminhão convertido em quilos;<br>• o preço da carga do caminhão;<br>• o valor do imposto, sabendo que o imposto é cobrado sobre o preço da carga do caminhão e depende do estado de origem;<br>• o valor total transportado pelo caminhão, preço da carga mais imposto. |
 | 22     | Faça um programa que receba o salário base e o tempo de serviço de um funcionário. |
-| 23     | Faça um programa que receba o valor do salário mínimo, o turno de trabalho (M — matutino; V — vespertino; ou N — noturno), a categoria (O — operário; G — gerente) e o número de horas trabalhadas no mês de um funcionário. Suponha a digitação apenas de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre:
-         • O coeficiente do salário, de acordo com a tabela a seguir.
-         • O valor do salário bruto, ou seja, o número de horas trabalhadas multiplicado pelo valor do coeficiente do salário.
-         • O imposto, de acordo com a tabela a seguir.
-         • A gratificação, de acordo com as regras a seguir.
-          Se o funcionário preencher todos os requisitos a seguir, sua gratificação será de R$ 50,00; caso contrário, será de R$ 30,00. 
-          Os requisitos são:
-          Turno: Noturno
-Número de horas trabalhadas: Superior a 80 horas
-• O auxílio alimentação, de acordo com as seguintes regras.
-Se o funcionário preencher algum dos requisitos a seguir, seu auxílio alimentação será de um terço do seu salário bruto; caso contrário, será de metade do seu salário bruto. Os requisitos são:
-Categoria: Operário
-Coeficiente do salário: <= 25
-• O salário líquido, ou seja, salário bruto menos imposto mais gratificação mais auxílio alimentação.
-• A classificação, de acordo com a tabela a seguir:|
+| **Nº** | **Questão**                                                                                             |
+|--------|----------------------------------------------------------------------------------------------------------|
+| 23     | Faça um programa que receba o valor do salário mínimo, o turno de trabalho (M — matutino; V — vespertino; ou N — noturno), a categoria (O — operário; G — gerente) e o número de horas trabalhadas no mês de um funcionário. Suponha a digitação apenas de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre: |
+|        | • O coeficiente do salário, de acordo com a tabela a seguir. |
+|        | • O valor do salário bruto, ou seja, o número de horas trabalhadas multiplicado pelo valor do coeficiente do salário. |
+|        | • O imposto, de acordo com a tabela a seguir. |
+|        | • A gratificação, de acordo com as regras a seguir. |
+|        | Se o funcionário preencher todos os requisitos a seguir, sua gratificação será de R$ 50,00; caso contrário, será de R$ 30,00. Os requisitos são: |
+|        | Turno: Noturno |
+|        | Número de horas trabalhadas: Superior a 80 horas |
+|        | • O auxílio alimentação, de acordo com as seguintes regras. |
+|        | Se o funcionário preencher algum dos requisitos a seguir, seu auxílio alimentação será de um terço do seu salário bruto; caso contrário, será de metade do seu salário bruto. Os requisitos são: |
+|        | Categoria: Operário |
+|        | Coeficiente do salário: <= 25 |
+|        | • O salário líquido, ou seja, salário bruto menos imposto mais gratificação mais auxílio alimentação. |
+|        | • A classificação, de acordo com a tabela a seguir: |
 | 24     | Faça um programa que receba o preço, o tipo (A — alimentação; L — limpeza; e V — vestuário) e a refrigeração (S — produto que necessita de refrigeração; e N — produto que não necessita de refrigeração) de um produto. Suponha que haverá apenas a digitação de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre: |
 | 25     | Faça um programa que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que se localiza esse ângulo. Considere os quadrantes da trigonometria e, para ângulos maiores que 360º ou menores que −360º, reduzi-los, mostrando também o número de voltas e o sentido da volta (horário ou anti-horário). |
