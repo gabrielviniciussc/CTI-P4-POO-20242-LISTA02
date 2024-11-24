@@ -27,12 +27,13 @@
 | 21     | Faça um programa que receba:<br>• o código do estado de origem da carga de um caminhão, supondo que a digitação do código do estado seja sempre válida, isto é, um número inteiro entre 1 e 5;<br>• o peso da carga do caminhão em toneladas;<br>• o código da carga, supondo que a digitação do código seja sempre válida, isto é, um número inteiro entre 10 e 40.<br>Calcule e mostre:<br>• o peso da carga do caminhão convertido em quilos;<br>• o preço da carga do caminhão;<br>• o valor do imposto, sabendo que o imposto é cobrado sobre o preço da carga do caminhão e depende do estado de origem;<br>• o valor total transportado pelo caminhão, preço da carga mais imposto. |
 | 22     | Faça um programa que receba o salário base e o tempo de serviço de um funcionário. |
 | 23     | Faça um programa que receba o valor do salário mínimo, o turno de trabalho (M — matutino; V — vespertino; ou N — noturno), a categoria (O — operário; G — gerente) e o número de horas trabalhadas no mês de um funcionário. Suponha a digitação apenas de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre:
-• O coeficiente do salário, de acordo com a tabela a seguir.
-• O valor do salário bruto, ou seja, o número de horas trabalhadas multiplicado pelo valor do coeficiente do salário.
-• O imposto, de acordo com a tabela a seguir.
-• A gratificação, de acordo com as regras a seguir.
-Se o funcionário preencher todos os requisitos a seguir, sua gratificação será de R$ 50,00; caso contrário, será de R$ 30,00. Os requisitos são:
-Turno: Noturno
+         • O coeficiente do salário, de acordo com a tabela a seguir.
+         • O valor do salário bruto, ou seja, o número de horas trabalhadas multiplicado pelo valor do coeficiente do salário.
+         • O imposto, de acordo com a tabela a seguir.
+         • A gratificação, de acordo com as regras a seguir.
+          Se o funcionário preencher todos os requisitos a seguir, sua gratificação será de R$ 50,00; caso contrário, será de R$ 30,00. 
+          Os requisitos são:
+          Turno: Noturno
 Número de horas trabalhadas: Superior a 80 horas
 • O auxílio alimentação, de acordo com as seguintes regras.
 Se o funcionário preencher algum dos requisitos a seguir, seu auxílio alimentação será de um terço do seu salário bruto; caso contrário, será de metade do seu salário bruto. Os requisitos são:
