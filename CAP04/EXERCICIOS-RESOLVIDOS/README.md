@@ -1,5 +1,7 @@
-### Segue a lista de exercícios resolvidos em Java, com os números das questões e seus respectivos enunciados.
------
+# Exercícios Resolvidos em Java
+
+## Lista de Exercícios
+
 | **Nº** | **Questão**                                                                                             |
 |--------|----------------------------------------------------------------------------------------------------------|
 | 01     | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.              |
@@ -27,4 +29,3 @@
 | 23     | Faça um programa que receba o valor do salário mínimo, o turno de trabalho (M — matutino; V — vespertino; ou N — noturno), a categoria (O — operário; G — gerente) e o número de horas trabalhadas no mês de um funcionário. Suponha a digitação apenas de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre: |
 | 24     | Faça um programa que receba o preço, o tipo (A — alimentação; L — limpeza; e V — vestuário) e a refrigeração (S — produto que necessita de refrigeração; e N — produto que não necessita de refrigeração) de um produto. Suponha que haverá apenas a digitação de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre: |
 | 25     | Faça um programa que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que se localiza esse ângulo. Considere os quadrantes da trigonometria e, para ângulos maiores que 360º ou menores que −360º, reduzi-los, mostrando também o número de voltas e o sentido da volta (horário ou anti-horário). |
- 
