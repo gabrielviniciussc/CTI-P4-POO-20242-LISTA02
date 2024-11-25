@@ -1,4 +1,5 @@
 package br.edu.principal;
+
 import java.util.Scanner;
 
 public class Principal {
@@ -10,10 +11,14 @@ public class Principal {
         double media_idade = 0, perc = 0, menor_idade = 0;
         String sexo, exp;
 
+        System.out.println("Digite a idade (digite 0 para encerrar):");
         idade = sc.nextInt();
 
         while (idade != 0) {
+            System.out.println("Digite o sexo (M para masculino, F para feminino):");
             sexo = sc.next();
+
+            System.out.println("Digite a experiência (S para sim, N para não):");
             exp = sc.next();
 
             if (sexo.equals("F") && exp.equals("S")) {
@@ -46,6 +51,7 @@ public class Principal {
                 cont_m2++;
             }
 
+            System.out.println("Digite a idade (digite 0 para encerrar):");
             idade = sc.nextInt();
         }
 
