@@ -1,4 +1,5 @@
 package br.edu.principal;
+
 import java.util.Scanner;
 
 public class Principal {
@@ -30,7 +31,7 @@ public class Principal {
 
             if (pecas_op <= 30) {
                 salario_op = 450;
-            } else if (pecas_op <= 50) {
+            } else if (pecas_op > 30 && pecas_op <= 50) {
                 salario_op = 450 + ((pecas_op - 30) * 3 / 100 * 450);
             } else {
                 salario_op = 450 + ((pecas_op - 30) * 5 / 100 * 450);
@@ -49,23 +50,34 @@ public class Principal {
                 cont_f++;
             }
 
-            if (cont == 1 || salario_op > salario_maior) {
+            if (cont == 1) {
                 salario_maior = salario_op;
                 num_maior = num_op;
+            } else {
+                if (salario_op > salario_maior) {
+                    salario_maior = salario_op;
+                    num_maior = num_op;
+                }
             }
         }
 
-        System.out.println("Total da folha de pagamento da fábrica: " + tot_folha);
-        System.out.println("Total de peças fabricadas no mês: " + tot_pecas);
+        System.out.println("Total da folha de pagamento = " + tot_folha);
+        System.out.println("Total de peças fabricadas no mês = " + tot_pecas);
 
-        if (cont_m > 0) {
-            System.out.println("Média de peças fabricadas pelos homens: " + media_m / cont_m);
+        if (cont_m == 0) {
+            System.out.println("NENHUM HOMEM");
+        } else {
+            media_m = media_m / cont_m;
+            System.out.println("Média de peças fabricadas por homens = " + media_m);
         }
 
-        if (cont_f > 0) {
-            System.out.println("Média de peças fabricadas pelas mulheres: " + media_f / cont_f);
+        if (cont_f == 0) {
+            System.out.println("NENHUMA MULHER");
+        } else {
+            media_f = media_f / cont_f;
+            System.out.println("Média de peças fabricadas por mulheres = " + media_f);
         }
 
-        System.out.println("O número do operário de maior salário é: " + num_maior + " com salário = " + salario_maior);
+        System.out.println("O número do operário com maior salário é " + num_maior);
     }
 }
