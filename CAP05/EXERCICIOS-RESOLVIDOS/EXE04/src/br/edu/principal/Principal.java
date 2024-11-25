@@ -57,4 +57,4 @@ public class Principal {
 		            System.out.println("Média de acidentes nas cidades com menos de 2000 veículos: " + media_acid);
 		        }
 		    }
-		}
+}
