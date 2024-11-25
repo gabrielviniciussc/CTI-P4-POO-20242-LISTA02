@@ -44,7 +44,7 @@ Caso prefira usar o terminal:
 **1.** Clone o repositório:
 
     ```bash
-    git clone https://github.com/thaylizesant0s/CTI-P4-POO-20242-LISTA02.git
+    git clone https://github.com/gabrielviniciussc/CTI-P4-POO-20242-LISTA02.git
     ```
 
 **2.** Navegue até o diretório do repositório:
