@@ -6,18 +6,18 @@ public class Principal {
 	{
 		Scanner sc = new Scanner(System.in);
 
-        double notaTrab, avalSem, exame, media;
+        double nota_Trab, aval_Sem, exame, media;
 
         System.out.print("Digite a nota do trabalho de laboratório: ");
-        notaTrab = sc.nextDouble();
+        nota_Trab = sc.nextDouble();
 
         System.out.print("Digite a nota da avaliação semestral: ");
-        avalSem = sc.nextDouble();
+        aval_Sem = sc.nextDouble();
 
         System.out.print("Digite a nota do exame final: ");
         exame = sc.nextDouble();
 
-        media = (notaTrab * 2 + avalSem * 3 + exame * 5) / 10;
+        media = (nota_Trab * 2 + aval_Sem * 3 + exame * 5) / 10;
 
         System.out.println("Média ponderada: " + media);
 
